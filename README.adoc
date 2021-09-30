@@ -1,0 +1,6 @@
+= Anti Key Repetition Library for Arduino =
+
+This library allows you to use buttons simply and efficiently without having to use the delay function to prevent them from being triggered repeatedly.
+
+For more information about this library please visit me at
+https://gitlab.soraharu.com/XiaoXi/AntiKeyRepetition.h

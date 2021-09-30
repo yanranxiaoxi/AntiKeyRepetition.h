@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For AntiKeyRepetition
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AntiKeyRepetition	KEYWORD1	AntiKeyRepetition
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getAccessState	KEYWORD2
+delAccess		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
